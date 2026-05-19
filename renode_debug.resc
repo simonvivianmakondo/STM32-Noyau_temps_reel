@@ -1,0 +1,7 @@
+:name: STM32H743 NTR Debug
+using sysbus
+mach create "stm32h743"
+machine LoadPlatformDescription @cmsdk_h7.repl
+sysbus LoadELF @C:/dev/mi11/Debug_Emu/mi11_ntr_etu
+showAnalyzer sysbus.cmsdk_uart
+machine StartGdbServer 3333 True

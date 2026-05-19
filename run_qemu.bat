@@ -1,0 +1,2 @@
+@echo off
+C:\msys64\usr\bin\bash.exe -l -c "/ucrt64/bin/qemu-system-arm -M mps2-an386 -m 16M -nographic -kernel 'C:/Users/Simon Makondo/Documents/MI11/MI11-STM32-NTR/Debug_Emu/mi11_ntr_etu'; exec bash"
