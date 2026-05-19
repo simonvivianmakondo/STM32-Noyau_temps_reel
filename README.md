@@ -5,7 +5,7 @@
 > Ordonnancement coopératif avec primitives de synchronisation, sans HAL ni RTOS commercial.
 
 **Auteur :** Simon Vivian Makondo  
-**Formation :** Ingénierie des Systèmes Embarqués et Autonomes (INES) — UTC Compiègne  
+**Formation :** Cycle Ingénieur — UTC Compiègne  
 **Année :** 2025–2026
 
 ---
